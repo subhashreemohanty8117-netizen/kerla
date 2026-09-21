@@ -1,0 +1,25 @@
+/*hero.css*/
+*{
+	margin:0;
+	paddind:0;
+}
+.hero{
+	height: 600px;
+	background: red;
+	background: url('../images/kerla.jpg');
+	background-size: cover;
+	background-position: bottom;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+.hero h3{
+	color:white;
+	font-size: 120px;
+}
+	.hero h1{
+	color:white;
+	font-size: 160px;
+	
+}
